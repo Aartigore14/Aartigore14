@@ -1,77 +1,131 @@
-<h1 align="center">Hi, I'm Aarti Gore 👋</h1>
+<h1 align="center">Aarti Gore</h1>
 
 <p align="center">
-  🎓 Electronics & Telecommunication Engineering Student — SPPU, Pune <br>
-  💻 Aspiring Java Full-Stack Developer <br>
-  🚀 Currently building: Java + Spring Boot + React projects for campus placements
+  <b>Electronics & Telecommunication Engineering — 3rd Year | SPPU, Pune</b><br>
+  Java Full-Stack Developer (in progress) &nbsp;|&nbsp; DSA Practitioner &nbsp;|&nbsp; Open to Internships & Campus Placements 2026
+</p>
+
+<p align="center">
+  <a href="mailto:aartigore2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aarti-gore-07b2202aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aartigore14" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/aartigore/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🔭 I'm currently learning **Java Full-Stack Development** (Spring Boot + React + MySQL)
-- 🌱Starting **DSA on LeetCode** from June 2026 — Arrays → Trees → Graphs
-- 🎯 Goal: Land a **Java Full-Stack Developer** role through campus placements 2026
-- 📍 Based in **Pune, Maharashtra**
+I am a 3rd year Electronics and Telecommunication Engineering student at Savitribai Phule Pune University, building a strong foundation in Java Full-Stack Development alongside my core engineering curriculum.
 
+- 🎯 Targeting **Java Full-Stack Developer** roles in campus placements 2026
+- 🔨 Currently learning **Spring Boot + React + MySQL** through hands-on project building
+- 📘 Practicing **Data Structures & Algorithms** in Java daily from June 2026
+- 🏫 **SPPU, Pune** — E&TC Engineering, Batch of 2027
+- 📬 Reach me at **aartigore2005@gmail.com**
 
 ---
 
-## 🛠️ Skills & Technologies
+## Technical Skills
 
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Currently Learning**
+**Frameworks & Databases** *(currently learning)*
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**Tools**
+**Core Concepts**
 
+![OOP](https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=leetcode&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Tools & IDEs**
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🚗 [Smart Parking System](https://github.com/Aartigore14/smart-parking-system)
-> A web app for Pune malls with real-time slot booking, UPI/Card payment, and admin dashboard.
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Slot booking, payment integration UI, admin panel
+### 🚗 Smart Parking System
+> A full-featured web application for smart parking slot management in Pune malls.
 
-### ☕ [Java Practice Sheet](https://github.com/Aartigore14/java-practice-sheet)
-> Organized Java programs covering Arrays, OOP, Data Structures and more.
-- **Tech:** Core Java
-- **Topics:** Arrays, Searching, Sorting, OOP concepts
+- Real-time parking slot booking and availability display
+- UPI and Card payment integration UI
+- Admin dashboard for slot and user management
+- **Tech Stack:** HTML, CSS, JavaScript
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aartigore14/smart-parking-system)
 
 ---
 
-## 📊 DSA Progress
+### ☕ Java Practice Sheet
+> A structured collection of Java programs organized by topic — built as a daily practice repository.
 
-|| Topic | Status |
-|---|---|
-| Arrays | ✅ Done (Java programs) |
-| Strings | ⏳ Starting June 1st |
-| Linked Lists | ⏳ Upcoming |
-| Stacks & Queues | ⏳ Upcoming |
-| Trees | ⏳ Upcoming |
-| Graphs | ⏳ Upcoming |
+- Arrays: searching, sorting, manipulation problems
+- OOP: classes, inheritance, polymorphism, abstraction
+- Data Structures: stacks, queues, linked lists (in progress)
+- **Tech Stack:** Core Java
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aartigore14/java-practice-sheet)
+
 ---
 
-## 📈 GitHub Stats
+## DSA Progress Tracker
+
+| Topic | Status | Platform |
+|---|---|---|
+| Arrays | ✅ Completed | LeetCode / Practice |
+| Strings | ⏳ Starting June 2026 | LeetCode |
+| Linked Lists | ⏳ Upcoming | LeetCode |
+| Stacks & Queues | ⏳ Upcoming | LeetCode |
+| Trees & Binary Search | ⏳ Upcoming | LeetCode |
+| Graphs (BFS/DFS) | ⏳ Upcoming | LeetCode |
+| Dynamic Programming | ⏳ Upcoming | LeetCode |
+
+---
+
+## Currently Working On
+
+```text
+📌 Java Full-Stack Roadmap
+   ├── Core Java + OOP        ✅ Done
+   ├── SQL + JDBC + JPA       🔄 In Progress
+   ├── Spring Boot REST API   ⏳ Next
+   ├── Spring Security + JWT  ⏳ Upcoming
+   ├── React Frontend         ⏳ Upcoming
+   └── Full-Stack Projects    ⏳ Upcoming (June 2026)
+```
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aartigore14&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aartigore14&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aartigore14&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
@@ -81,24 +135,10 @@
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="mailto:aartigore2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aarti-gore" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aartigore14" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aartigore14&color=brightgreen&style=flat-square&label=Profile+Views" />
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aartigore14&color=brightgreen&style=flat-square" alt="Profile views" />
+  <i>Open to internship and campus placement opportunities — 2026</i>
 </p>
-
-<p align="center">⭐ <i>Consistency beats perfection. One commit at a time.</i> ⭐</p>
