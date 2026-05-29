@@ -28,7 +28,7 @@ I am a 3rd year Electronics and Telecommunication Engineering student at Savitri
 
 - 🎯 Targeting **Java Full-Stack Developer** roles in campus placements 2026
 - 🔨 Currently learning **Spring Boot + React + MySQL** through hands-on project building
-- 📘 Practicing **Data Structures & Algorithms** in Java daily from June 2026
+- 📘 Actively practicing **DSA on LeetCode** in Java every day
 - 🏫 **SPPU, Pune** — E&TC Engineering, Batch of 2027
 - 📬 Reach me at **aartigore2005@gmail.com**
 
