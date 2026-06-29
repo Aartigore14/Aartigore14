@@ -99,7 +99,7 @@ I am a 3rd year Electronics and Telecommunication Engineering student at Savitri
 | Topic | Status | Platform |
 |---|---|---|
 | Arrays | ✅ Completed | LeetCode / Practice |
-| Strings | ⏳ Starting June 2026 | LeetCode |
+| Strings | ✅ Completed | LeetCode |
 | Linked Lists | ⏳ Upcoming | LeetCode |
 | Stacks & Queues | ⏳ Upcoming | LeetCode |
 | Trees & Binary Search | ⏳ Upcoming | LeetCode |
