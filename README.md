@@ -192,14 +192,22 @@ public class AartiGore {
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+## 💭 Developer Philosophy
+
+> **"Consistency beats intensity. Small commits every day build great developers."**
+
 </p>
 
 <p align="center">
-  <i>"Building something broken every day and fixing it — that's how real learning happens." 🚀</i>
+<i>Currently learning Java Full Stack Development & solving DSA daily. 🚀</i>
 </p>
 
 <p align="center">
-  ⭐ If you find my repositories useful, consider giving them a star!
+⭐ Thanks for visiting my profile!
 </p>
+
+
