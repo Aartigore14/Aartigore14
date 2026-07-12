@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarti%20Gore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20E%26TC%20Engineer%20%7C%20Pune&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarti%20Gore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20E%26TC%20Engineer%20%7C%20Pune&descAlignY=55&descSize=16" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=F7A51E&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Building+Real+Projects%2C+One+Commit+at+a+Time+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+DSA+%7C+React+(soon);Open+to+Internships+%26+Placements+2026+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=F7A51E&center=true&vCenter=true&repeat=true&width=480&height=45&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+React;Building+Real+Projects+Daily+%F0%9F%9A%80;Open+to+Internships+%26+Placements+2026)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aartigore2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gore-aarti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gore-aart)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aartigore)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/aartigore2005)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aartigore14)
@@ -28,7 +28,7 @@
 
 ## ✨ About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 🎓 **3rd Year E&TC Engineering Student** at SPPU, Pune (Batch 2027)
 - 💻 Passionate about **Java Full-Stack Development** — building real projects daily
@@ -36,7 +36,7 @@
 - 🌱 Currently mastering **Spring Boot 3.x → Spring Data JPA → Spring Security + JWT**
 - 📊 Practicing **DSA daily** on LeetCode using Striver's A2Z sheet
 - 🏆 Targeting **Software Developer / Full Stack Java** roles in Campus Placements 2026
-- 🔥 I believe: *"Building something broken and fixing it teaches more than any tutorial"*
+- 🔥 I believe: *"Every bug you fix makes you a better developer"*
 - 📫 Reach me at **aartigore2005@gmail.com**
 
 <br clear="right"/>
@@ -100,7 +100,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    🗺️  MY LEARNING ROADMAP                   ║
+║                  🗺️  MY LEARNING ROADMAP                     ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  ✅  Core Java + OOP + Collections      COMPLETED            ║
@@ -116,7 +116,7 @@
 ║                                                              ║
 ║  📊  DSA: Striver A2Z Sheet            ACTIVE DAILY          ║
 ║  🏆  HackerRank Java Certification     IN PREP               ║
-║  🎓  Final Year Project (IoT System)   IN PROGRESS           ║
+║  🎓  Final Year Project                UPCOMING              ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -133,7 +133,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aartigore14&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aartigore14&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
 ---
@@ -164,24 +164,22 @@
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aartigore2005@gmail.com)
 [![LeetCode](https://img.shields.io/badge/Follow_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aartigore)
 
-> 💬 **Open to internship opportunities, campus placements 2026, and connecting with fellow developers on the same journey. Let's build something great together!**
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+> 💬 **Open to internship opportunities, campus placements 2026, and connecting with fellow developers. Let's build something great together!**
 
 <br/>
 
-*"Building something broken every day and fixing it — that's how real learning happens."* 🔥
+### 💡 My Motto
+
+> *"The secret of getting ahead is getting started."* — Mark Twain
 
 <br/>
 
 ⭐ **If you find my repositories useful, please consider giving them a star!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
