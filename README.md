@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarti%20Gore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20E%26TC%20Engineer%20%7C%20Pune&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aarti%20Gore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20E%26TC%20Engineer%20%7C%20Pune&descAlignY=55&descSize=16" alt="header" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=F7A51E&center=true&vCenter=true&repeat=true&width=480&height=45&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+React;Building+Real+Projects+Daily+%F0%9F%9A%80;Open+to+Internships+%26+Placements+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=F7A51E&center=true&vCenter=true&repeat=true&width=480&height=45&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+React;Building+Real+Projects+Daily+%F0%9F%9A%80;Open+to+Internships+and+Placements+2026)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aartigore2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gore-aart)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gore-aarti)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aartigore)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/aartigore2005)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aartigore14)
 
-<img src="https://komarev.com/ghpvc/?username=Aartigore14&color=F7A51E&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Aartigore14&color=F7A51E&style=for-the-badge&label=Profile+Views" alt="profile views"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ## ✨ About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
 - 🎓 **Final Year E&TC Engineering Student** at SPPU, Pune (Batch 2027)
 - 💻 Passionate about **Java Full-Stack Development** — building real projects daily
@@ -55,7 +55,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks and Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -66,7 +66,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -83,11 +83,11 @@
 
 <div align="center">
 
-| 🏗️ Project | 📋 Description | 🛠️ Stack | 🔗 Links |
-|------------|---------------|----------|---------|
-| **🅿️ Smart Parking System** | Real-world parking solution for 4 Pune malls — slot booking, UPI payments, admin dashboard | `HTML` `CSS` `JS` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Aartigore14/smart-parking-system) [![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://aartigore14.github.io/smart-parking-system) |
-| **☕ Java Mini Projects** | 6 structured Java projects — Calculator → Bank System → Library → Inventory Tracker | `Java` `OOP` `JDBC` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Aartigore14/java-mini-projects) |
-| **🌱 Spring Boot Practice** | REST API learning repo — Hello World → Student CRUD → JPA → Security + JWT | `Spring Boot` `Java` `MySQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Aartigore14/spring-boot-practice) |
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **🅿️ Smart Parking System** | Real-world parking solution for 4 Pune malls with slot booking, UPI payments, admin dashboard | `HTML` `CSS` `JS` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Aartigore14/smart-parking-system) [![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://aartigore14.github.io/smart-parking-system) |
+| **☕ Java Mini Projects** | 6 structured Java projects — Calculator to Bank System to Inventory Tracker | `Java` `OOP` `JDBC` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Aartigore14/java-mini-projects) |
+| **🌱 Spring Boot Practice** | REST API learning repo — Hello World to Student CRUD to JPA to Security | `Spring Boot` `Java` `MySQL` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Aartigore14/spring-boot-practice) |
 | **📚 Java Practice Sheet** | Daily Java practice — Arrays, OOP patterns, Collections, DSA problems | `Java` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Aartigore14/java-practice-sheet) |
 
 </div>
@@ -109,14 +109,14 @@
 ║  🔄  Spring Data JPA + MySQL            IN PROGRESS          ║
 ║  🔜  Spring Security 6 + JWT           UPCOMING              ║
 ║  🔜  React.js Frontend                 UPCOMING              ║
-║  🔜  SmartSpend — Full Stack App       UPCOMING              ║
+║  🔜  SmartSpend Full Stack App         UPCOMING              ║
 ║  🔜  Deploy on Railway / Render        UPCOMING              ║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  📊  DSA: Striver A2Z Sheet            ACTIVE DAILY          ║
 ║  🏆  HackerRank Java Certification     IN PREP               ║
-║  🎓  Final Year Project                UPCOMING              ║
+║  🎓  B.E. Final Year Project           PLANNING PHASE        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -128,12 +128,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aartigore14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aartigore14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aartigore14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aartigore14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" alt="top languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aartigore14&theme=tokyonight&hide_border=true" width="70%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aartigore14&theme=tokyonight&hide_border=true" width="70%" alt="streak stats"/>
+
 </div>
 
 ---
@@ -144,12 +148,12 @@
 
 | Topic | Status | Platform |
 |-------|--------|----------|
-| Arrays & Strings | 🔄 In Progress | LeetCode · Striver A2Z |
-| HashMap & Hashing | 🔄 Learning | LeetCode |
+| Arrays and Strings | 🔄 In Progress | LeetCode · Striver A2Z |
+| HashMap and Hashing | 🔄 Learning | LeetCode |
 | Two Pointers | 🔜 Upcoming | LeetCode |
 | Sliding Window | 🔜 Upcoming | LeetCode |
-| Stacks & Queues | 🔜 Upcoming | LeetCode |
-| Trees — BFS / DFS | 🔜 Upcoming | LeetCode |
+| Stacks and Queues | 🔜 Upcoming | LeetCode |
+| Trees BFS / DFS | 🔜 Upcoming | LeetCode |
 | Dynamic Programming | 🔜 Upcoming | LeetCode |
 
 </div>
@@ -181,5 +185,5 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%"/>
 </div>
