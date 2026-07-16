@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=timeGradient&text=Aarti%20Gore&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open%20to%20Software%20Development%20Internships%20%7C%20Java%20Full%20Stack&descSize=18&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Aarti%20Gore&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Java%20Full%20Stack%20Developer%20%7C%20Open%20to%20Software%20Development%20Internships%20%26%20Placements&descSize=18&descAlignY=58" alt="header" width="100%"/>
 
 </div>
 
@@ -129,14 +129,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aartigore14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aartigore14&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" alt="top languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aartigore14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aartigore14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aartigore14&theme=tokyonight&hide_border=true" width="70%" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com?user=Aartigore14&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
