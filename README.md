@@ -106,16 +106,16 @@
 ║  ✅  Core Java + OOP + Collections      COMPLETED            ║
 ║  ✅  Java Mini Projects (6 projects)    COMPLETED            ║
 ║  ✅  Spring Boot REST APIs              COMPLETED            ║
-║  🔄  Spring Data JPA + MySQL            IN PROGRESS          ║
-║  🔜  Spring Security 6 + JWT           UPCOMING              ║
-║  🔜  React.js Frontend                 UPCOMING              ║
-║  🔜  SmartSpend Full Stack App         UPCOMING              ║
-║  🔜  Deploy on Railway / Render        UPCOMING              ║
+║  🔄  Spring Data JPA + MySQL            COMPLETED            ║
+║  🔜  Spring Security 6 + JWT            COMPLETED            ║
+║  🔜  React.js Frontend                 IN PROGRESS           ║
+║  🔜  SmartSpend Full Stack App         IN PROGRESS           ║
+║  🔜  Deploy on Railway / Render        IN PROGRESS           ║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  📊  DSA: Striver A2Z Sheet            ACTIVE DAILY          ║
-║  🏆  HackerRank Java Certification     IN PREP               ║
+║  🏆  HackerRank Java Certification     COMPLETED             ║
 ║  🎓  B.E. Final Year Project           PLANNING PHASE        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
