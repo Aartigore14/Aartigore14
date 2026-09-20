@@ -116,8 +116,7 @@
 ║                                                              ║
 ║  📊  DSA: Striver A2Z Sheet            ACTIVE DAILY          ║
 ║  🏆  HackerRank Java Certification     COMPLETED             ║
-║  🎓  B.E. Final Year Project           PLANNING PHASE        ║
-║                                                              ║
+║  🎓  B.E. Final Year Project            In Progress          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
